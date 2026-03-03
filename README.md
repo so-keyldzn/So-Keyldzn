@@ -49,7 +49,7 @@ Python      ████████████░░░░░░░░  data &
 ```
 
 **Backend & Infra**
-`Node.js` · `PostgreSQL` · `Redis` · `Kafka` · `AWS` · `Docker`
+`Node.js` · `PostgreSQL` · `Redis` · `Kafka` · `AWS` · `Docker` · `SQS` · `Terraforms`
 
 **Frontend**
 `React` · `Next.js` · `Tailwind CSS`
